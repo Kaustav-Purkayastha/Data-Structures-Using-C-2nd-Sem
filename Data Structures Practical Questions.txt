@@ -1,0 +1,27 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Write a program to implement insertion and deletion of an element in an array.
+
+2. Write a program to implement Linear Search algorithm.
+
+3. Write a program to implement Binary Search algorithm.
+
+4. Write a program to implement Bubble Sort.
+
+5. Write a program to implement Insertion Sort.
+
+6. Write a program to implement Selection Sort.
+
+7. Write a program to implement all the operations of Stack using array.
+
+8. Write a program to implement all the operations of Linear Queue using array.
+
+9. Write a program to implement all the operations of Circular Queue using array.
+
+10. Write a program to implement all the operations of Singly Linked List.
+
+11. Write a program to implement Stack using Linked List.
+
+12. Write a program to implement Linear Queue using Linked List.
+
+
