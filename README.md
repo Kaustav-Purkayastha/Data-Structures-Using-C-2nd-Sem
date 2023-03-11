@@ -1,6 +1,6 @@
 #  💻 Data Structures
 
-![Data-Structures-2nd-Sem](https://socialify.git.ci/Kaustav-Purkayastha/Data-Structures-Using-C-2nd-Sem/image?description=1&descriptionEditable=CSC-C-202-L%20-%3E%20%0AData%20Structures%20(LAB)%20&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+![Data-Structures-2nd-Sem](https://socialify.git.ci/Kaustav-Purkayastha/Data-Structures-Using-C-2nd-Sem/image?description=1&descriptionEditable=CSC-C-202-L%20-%3E%20%0AData%20Structures%20(LAB)%20&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark)
 
 
 ### 🔥 Let\'s Connect! 👇 
